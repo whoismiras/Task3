@@ -1,1 +1,1 @@
-Push 2
+new Push 2
