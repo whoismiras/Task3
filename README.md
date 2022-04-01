@@ -55,7 +55,7 @@ git add –A
 #### 1) Сгенерируйте конфликт на main. Напишите решение
 <br>cd IdeaProjects/
 <br>mkdir Task3
-<br><cd Task3/
+<br>cd Task3/
 <br>git clone https://github.com/whoismiras/Task3.git
 <br>nano 1.txt
 <br>git add 1.txt
