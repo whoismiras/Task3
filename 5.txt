@@ -1,7 +1,11 @@
 {FIRST BLOCK
-ads
-}
-{
-SECOND BLOCK
-123
-}
+ads}
+
+{SECOND BLOCK
+123 }
+
+{THIRD BLOCK
+
+12341}
+
+
