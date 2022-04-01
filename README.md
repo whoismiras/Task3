@@ -85,10 +85,15 @@ git add –A
 #### 1)	Cоздать 2 файла, разделить их на 2 push
 <br><br>nano 2.txt
 <br>nano 3.txt
-<br>git add .
+<br>git add 2.txt
+<br>git stash
 <br>git commit –m “first push”
-<br>git push 2.txt Develop
-<br>git push 3.txt Develop
+<br>git push
+<br>git stash pop
+<br>git add 3.txt
+<br>git stash
+<br>git commit -m "second push"
+<br>git push 
 
 
 
