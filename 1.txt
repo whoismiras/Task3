@@ -1,3 +1,8 @@
-comment 1 from main comment 2 from main
+comment 1 from main 
+comment 2 from main
 comment 3 from main
+<<<<<<< HEAD
 comment 4 from main
+=======
+comment from Git
+>>>>>>> 8a73e374ed2c890232dca172db598930d3b46b46
