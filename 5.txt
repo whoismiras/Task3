@@ -1,0 +1,7 @@
+{FIRST BLOCK
+ads
+}
+{
+SECOND BLOCK
+123
+}
